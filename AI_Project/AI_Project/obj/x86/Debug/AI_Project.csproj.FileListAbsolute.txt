@@ -1,0 +1,15 @@
+C:\Users\Talha\AppData\Local\Temporary Projects\AI_Project\bin\Debug\AI_Project.exe
+C:\Users\Talha\AppData\Local\Temporary Projects\AI_Project\bin\Debug\AI_Project.pdb
+C:\Users\Talha\AppData\Local\Temporary Projects\AI_Project\obj\x86\Debug\AI_Project.Form1.resources
+C:\Users\Talha\AppData\Local\Temporary Projects\AI_Project\obj\x86\Debug\AI_Project.Properties.Resources.resources
+C:\Users\Talha\AppData\Local\Temporary Projects\AI_Project\obj\x86\Debug\AI_Project.csproj.GenerateResource.Cache
+C:\Users\Talha\AppData\Local\Temporary Projects\AI_Project\obj\x86\Debug\AI_Project.exe
+C:\Users\Talha\AppData\Local\Temporary Projects\AI_Project\obj\x86\Debug\AI_Project.pdb
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\obj\x86\Debug\AI_Project.exe
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\obj\x86\Debug\AI_Project.pdb
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\bin\Debug\AI_Project.exe
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\bin\Debug\AI_Project.pdb
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\obj\x86\Debug\AI_Project.Form1.resources
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\obj\x86\Debug\AI_Project.Properties.Resources.resources
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\obj\x86\Debug\AI_Project.csproj.GenerateResource.Cache
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\obj\x86\Debug\AI_Project.csprojResolveAssemblyReference.cache

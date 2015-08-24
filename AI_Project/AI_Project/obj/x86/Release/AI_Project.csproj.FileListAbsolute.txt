@@ -1,0 +1,7 @@
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\bin\Release\AI_Project.exe
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\bin\Release\AI_Project.pdb
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\obj\x86\Release\AI_Project.Form1.resources
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\obj\x86\Release\AI_Project.Properties.Resources.resources
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\obj\x86\Release\AI_Project.csproj.GenerateResource.Cache
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\obj\x86\Release\AI_Project.exe
+C:\Users\Talha\documents\visual studio 2010\Projects\AI_Project\AI_Project\obj\x86\Release\AI_Project.pdb
